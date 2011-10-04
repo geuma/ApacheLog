@@ -1,0 +1,24 @@
+ApacheLog.pm
+(c) 2011 Stefan Heumader
+email: stefan@heumader.at
+webpage: http://www.urandom.at
+
+Licened under GPLv3 (see LICENSE file)
+
+INTRODUCTION
+------------
+ApacheLog is a Collectd Plugin, which analyses
+hit and traffic for specific domains
+based on the Apache logfile.
+
+See http://www.perl.org for more details on Perl
+and http://www.collectd.org for more details on Collectd
+and http://www.apache.org for more details on Apache.
+
+BUGS & FEATURES
+---------------
+Email me if you find bugs or if you have some ideas for
+improvements. <stefan@heumader.at>
+
+
+Stefan Heumader
