@@ -11,6 +11,10 @@ ApacheLog is a Collectd Plugin, which analyses
 hit and traffic for specific domains
 based on the Apache logfile.
 
+For detailed information about installation and
+configuration see the Wiki on GitHub:
+https://github.com/geuma/ApacheLog/wiki
+
 See http://www.perl.org for more details on Perl
 and http://www.collectd.org for more details on Collectd
 and http://www.apache.org for more details on Apache.
